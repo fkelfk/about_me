@@ -213,12 +213,13 @@ footer p{
     max-width: 1120px;
     width: 75vw;
     margin: auto;
-    padding-bottom: 100px;
+    padding-bottom: 340px;
 }
 
 .story_sub_title{
     font-size: 30px;
-    padding-left: 20px;
+    text-align: center;
+    padding-bottom: 40px;
 }
 
 .story_summary{
